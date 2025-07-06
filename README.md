@@ -1,4 +1,5 @@
-[![Code-Sync](https://img.shields.io/badge/Code--Sync-%2300C853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Am-1111)
+**🚀 Code-Sync**
+
 A collaborative, real-time code editor where users can seamlessly code together. It provides a platform for multiple users to enter a room, share a unique room ID, and collaborate on code simultaneously.
 
 ![GitHub contributors](https://img.shields.io/github/contributors/sahilatahar/Code-Sync?style=for-the-badge&color=48bf21)
